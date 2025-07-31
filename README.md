@@ -1,1 +1,5 @@
-# mvp-488954b4-2082-49a0-ae6e-2bbe344ff27d
+# ResumeCraftAI
+
+Generated via LaunchWing
+
+- Auto‑deploys using GitHub Actions & Cloudflare Pages
